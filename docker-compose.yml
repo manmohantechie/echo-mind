@@ -56,7 +56,7 @@ services:
         condition: service_healthy
       chromadb:
         condition: service_healthy
-    command: uvicorn main:backend --host 0.0.0.0 --port 8000 --reload
+    command: uvicorn main:app --host 0.0.0.0 --port 8000 --reload
 
   # ── Frontend ────────────────────────────────────────────────────
   frontend:

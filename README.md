@@ -100,5 +100,5 @@ docker-compose up --build
 ```
 
 
-# Demo Screenshot
-<img width="1432" height="798" alt="Screenshot 2026-03-13 at 9 35 07 AM" src="https://github.com/user-attachments/assets/2f3763f6-9527-4dd0-9062-9877487f3afd" />
+# Watch Demo
+[![Watch the demo](https://img.youtube.com/vi/o-DZ5ALG5R4/0.jpg)](https://www.youtube.com/watch?v=o-DZ5ALG5R4)

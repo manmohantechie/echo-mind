@@ -6,6 +6,10 @@ Built with a focus on **low latency, scalability, and real-world system design**
 
 ---
 
+# Watch Demo
+[![Watch the demo](https://img.youtube.com/vi/o-DZ5ALG5R4/0.jpg)](https://www.youtube.com/watch?v=o-DZ5ALG5R4)
+
+
 ## 🚀 Overview
 
 Most RAG tutorials work for small datasets but break down with:
@@ -98,7 +102,3 @@ git clone https://github.com/manmohantechie/echo-mind.git
 cd echo-mind 
 docker-compose up --build 
 ```
-
-
-# Watch Demo
-[![Watch the demo](https://img.youtube.com/vi/o-DZ5ALG5R4/0.jpg)](https://www.youtube.com/watch?v=o-DZ5ALG5R4)
